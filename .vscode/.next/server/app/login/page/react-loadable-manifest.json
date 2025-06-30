@@ -1,0 +1,10 @@
+{
+  "[project]/src/components/auth/login-form.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/auth/login-form.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_152bb989._.js",
+      "static/chunks/src_c4b15790._.js",
+      "static/chunks/src_components_auth_login-form_tsx_021ea905._.js"
+    ]
+  }
+}
